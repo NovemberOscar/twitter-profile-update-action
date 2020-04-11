@@ -2,4 +2,4 @@ from imperial_dateutil import ImperialDatingSystem
 
 if __name__ == '__main__':
     t = ImperialDatingSystem.now()
-    print(f'description={str(t)}을 살아가고 있는 테크-프리스트 사이버네티카 데이터스미스. ')
+    print(f'description=The Omnissiah directs our footsteps along the path of knowledge. // 현재시각 {str(t)} ')
